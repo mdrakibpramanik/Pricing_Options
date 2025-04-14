@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "$30.30/month",
+      "unit": "month",
+      "description": "Ideal for beginners who want to stay active.",
+      "features": [
+        "Access to gym equipment",
+        "Free Wi-Fi",
+        "Locker room access",
+        "Open from 8 AM to 8 PM",
+        "Access to mobile app",
+        "Monthly progress tracking"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Plan",
+      "price": "$75.75/month",
+      "unit": "month",
+      "description": "Best for fitness enthusiasts who want it all.",
+      "features": [
+        "Everything in Standard Plan",
+        "Unlimited personal training sessions",
+        "Nutrition consultation",
+        "Sauna and steam room access",
+        "Priority support & VIP locker access",
+        "Free gym merchandise",
+        "Access to advanced fitness tracking tools"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Family Plan",
+      "price": "$120.20/month",
+      "unit": "month",
+      "description": "A value-packed plan for the whole family.",
+      "features": [
+        "Up to 4 family members",
+        "Access to all amenities (Standard Plan level)",
+        "Kids zone & child care during workouts",
+        "Weekend family group classes",
+        "Family nutrition and wellness sessions",
+        "Discounts on family events and workshops",
+        "Custom workout plans for all ages"
+      ]
+    }
+  ]
+  
